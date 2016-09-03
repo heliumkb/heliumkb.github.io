@@ -254,7 +254,8 @@ a:after {
 }
 
 #c p {
-	color: white
+	margin: 0;
+	color: white;
 }
 
 
