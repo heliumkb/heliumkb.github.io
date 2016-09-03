@@ -249,12 +249,12 @@ a:after {
 
 #c {
 	background: #425d65;
-	padding-top: 15px;
+	padding-top: 5px;
 	text-align: right;
 }
 
 #c p {
-	margin: 0;
+	margin: 0 0 5px 0;
 	color: white;
 }
 
