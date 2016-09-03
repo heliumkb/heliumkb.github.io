@@ -7,7 +7,7 @@
  */
 
 body {
-  background-color: #e6e8ba;
+  background-color: #e8dcba;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -120,7 +120,7 @@ a:after {
 
 #section-topbar ul#nav a {
   display: block;
-	color: #e6e8ba;
+	color: #e8dcba;
 	font: 24px/24px 'Abel';
   text-decoration: none;
   padding: 12px 30px 12px 30px;
@@ -135,7 +135,7 @@ a:after {
 }
 
 .nav > li > a:hover {
-	background-color: #e6e8ba;
+	background-color: #e8dcba;
 }
 
 .nav > li > a:focus {
@@ -180,7 +180,7 @@ a:after {
 
 #headerwrap h1 {
 	font-size: 120px;
-	color: #e6e8ba;
+	color: #e8dcba;
 }
 
 #headerwrap h3 {
@@ -228,11 +228,11 @@ a:after {
 
 #footwrap p {
 	font-size: 14px;
-	color: #e6e8ba;
+	color: #e8dcba;
 }
 
 #footwrap h5 {
-	color: #e6e8ba;
+	color: #e8dcba;
 }
 
 
